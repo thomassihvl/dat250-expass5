@@ -7,3 +7,4 @@ Another issue I encountered was that IntelliJ had reinstalled my Java SDK withou
 
 Other than that things went pretty smoothly. However, the time estimates in the guides were highly underexaggerated in my case, it took me about 5 hours of work to read, complete and fix everything, not 15 minutes per task...
 
+[Link to github repository here](https://github.com/thomassihvl/dat250-expass5)
